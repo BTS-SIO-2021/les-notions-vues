@@ -30,3 +30,5 @@
 - Linker ses feuilles de style
 - Syntaxe et structure CSS
 - Différence entre block et inline
+- les principes du Box-model (width, height, padding, margin, display et box-sizing)
+- *Bientôt : les positions en css et ensuite le le modèle des boîtes flexibles*
