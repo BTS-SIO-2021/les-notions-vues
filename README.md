@@ -34,5 +34,23 @@
 - FlexBox
 - les positions
 - les mediaqueries 
-- *Bientôt :
-les pseudo-éléments et les pseudo-classes puis les Framework CSS : Bootsrap et Semantic UI*
+- les pseudo-éléments et les pseudo-classes
+- *bientôt : les Framework CSS : Bootsrap et Semantic UI*
+
+## Wordpress
+
+- Installer Wordpress
+- Fonctionnement et création d'un thème wordpress
+- Theme et page Builder
+- Les templates Wordpress
+- Les plugins Wordpress
+
+## PHP
+
+- Les variables
+- Les boucles
+- Les conditions
+- Les fonctions
+- L'inclusion de fichier
+- Le templating
+
