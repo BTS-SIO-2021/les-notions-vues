@@ -58,4 +58,5 @@
 - Les fonctions de nettoyage (trim() ; htmlspecialchars(); stripslashes() ; filter_var()
 - la programmation procédurale et la programmation fonctionnelle
 - l'injection de code htlm et js malveillant 
+- *bientôt : l'architecture MVC*
 
