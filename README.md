@@ -59,4 +59,6 @@
 - la programmation procédurale et la programmation fonctionnelle
 - l'injection de code htlm et js malveillant 
 - *bientôt : l'architecture MVC*
+- *bientôt : la programmation orientée objet*
+- *bientôt : PDO*
 
