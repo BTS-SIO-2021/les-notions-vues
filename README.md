@@ -35,7 +35,7 @@
 - les positions
 - les mediaqueries 
 - les pseudo-éléments et les pseudo-classes
-- *bientôt : les Framework CSS : Bootsrap et Semantic UI*
+- les Framework CSS : Bootsrap 
 
 ## Wordpress
 
@@ -58,7 +58,8 @@
 - Les fonctions de nettoyage (trim() ; htmlspecialchars(); stripslashes() ; filter_var()
 - la programmation procédurale et la programmation fonctionnelle
 - l'injection de code htlm et js malveillant 
-- *bientôt : l'architecture MVC*
-- *bientôt : la programmation orientée objet*
-- *bientôt : PDO*
+- l'architecture MVC*
+- la programmation orientée objet*
+- PDO et l'interfaçage avec une base de données
+- les sessions et l'authentification via php
 
